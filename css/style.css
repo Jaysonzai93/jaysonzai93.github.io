@@ -1,0 +1,48 @@
+#header{
+    color: Limegreen;
+    text-align: center;
+    background: url(../images/galaxy-tumblr-background-gif-9.gif);
+    padding: 5%;
+}
+.body{
+    margin: 0%;
+}
+.section{
+    text-align: center; 
+    background-image: url(../images/background_image.jpg);
+    background-repeat: repeat;
+    -webkit-text-fill-color: limegreen;
+    padding: 1%;
+}
+.about{
+    padding: 5;
+    background-image: url(../images/background_image.jpg);
+    background-repeat: repeat;
+    -webkit-text-fill-color: limegreen;
+}
+.table{
+    position: relative;
+}
+.whitetext{
+    -webkit-text-fill-color: White;
+}
+.prank_game{
+   
+    text-align: center;
+    background-image: url(../images/background_image.jpg);
+    background-repeat: repeat;
+    margin: auto;
+    padding: 2%;
+}
+button {
+    background-color: limegreen;
+    padding: 20px;
+    color: white;
+    border: solid black;
+}
+
+button:hover {
+    background-color: green;
+    border: solid white;
+    transition: all 1s;
+}
